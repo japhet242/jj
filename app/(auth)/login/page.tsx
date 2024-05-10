@@ -24,7 +24,7 @@ export default function Login() {
            </div>
            <div className=" text-center mt-6">
             <Link href="/register" className=" underline hover:text-cyan-500">
-               n'as-tu pas un compte ? : <span className=" text-emerald-600">crée </span>
+               n'as-tu pas un compte .? : <span className=" text-emerald-600">crée </span>
             </Link>
             
            </div>
